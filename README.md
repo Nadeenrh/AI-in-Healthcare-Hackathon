@@ -1,4 +1,4 @@
-# AI in Healthcare: Diabetes Management Application
+# AI in Healthcare: Diabetes Management Application (3rd Place winning project)
 
 ## Overview
 This Java application was developed during an AI in healthcare hackathon. It focuses on managing diabetes through the use of artificial intelligence, improving both diagnosis and ongoing management. The application was designed to assist patients and healthcare professionals by providing critical insights and recommendations based on patient data.
