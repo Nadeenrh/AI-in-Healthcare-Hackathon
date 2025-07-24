@@ -24,9 +24,6 @@ Then, clone it using the following command in your terminal:
 javac YourMainClass.java
 java YourMainClass
 
-## How to Use
-Provide detailed instructions on how to use the application, including any commands that need to be run or data that needs to be inputted.
-
 ## Contributing
 This project was developed by Nadeen Houri, Shuaib Mohamed, Aya Dassouki, Jasnoor Kaur a group of students passionate about using AI to improve healthcare. Contributions are welcome. To contribute:
 1. Fork the repository.
